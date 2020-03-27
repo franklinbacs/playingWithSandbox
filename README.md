@@ -1,2 +1,0 @@
-# playingWithSandbox
-Created with CodeSandbox
